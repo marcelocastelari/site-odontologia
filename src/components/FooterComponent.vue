@@ -1,20 +1,20 @@
 <template>
     <div class="bg-gray-100 text-center md:h-80 md:flex justify-center">
-        <div class="md:mr-24 md:mt-16">
-            <div class="text-center p-4">
-                <h1 class="md:text-lg font-semibold ">Fale conosco</h1>
+        <div class="mt-4 md:mr-24 md:mt-16">
+            <div>
+                <h1 class="md:text-lg ml-8 font-semibold">Fale Conosco</h1>
             </div>
-            <div class="flex ml-24 md:mt-4 ">
-                <span> <img class="w-4 mr-2 mt-1 " src="../assets/whatsapp1.png" alt=""></span>
-                <span>(12) 98876-5567</span>
-            </div>
-            <div class="flex ml-24 md:mt-2">
-                <span> <img class="w-4 mr-2 mt-1 " src="../assets/o-email1.png" alt=""></span>
-                <span>drana@gmail.com</span>
+            <div class="flex  ml-24 md:mt-4">
+                <img class="w-4 h-4 mr-2 mt-1" src="../assets/whatsapp1.png" alt="">
+                <span>(12) 3456-7890</span>
             </div>
             <div class="flex ml-24 md:mt-2">
-                <span> <img class="w-4 mr-2 mt-1 " src="../assets/localizacao1.png" alt=""></span>
-                <span>rua dr pompilio mercadante 181</span>
+                <img class="w-4 h-4 mr-2 mt-1" src="../assets/o-email1.png" alt="">
+                <span>contato@email.com</span>
+            </div>
+            <div class="flex ml-24 md:mt-2">
+                <img class="w-4 h-4 mr-2 mt-1" src="../assets/localizacao1.png" alt="">
+                <span>Rua Barão de Jacareí</span>
             </div>
         </div>
         <div class="mt-4 md:mr-24 md:mt-16">
