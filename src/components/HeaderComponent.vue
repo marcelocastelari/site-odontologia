@@ -3,7 +3,7 @@
         <div class="back">
             <div class="flex justify-between ">
                 <div></div>
-                <div class="flex md:text-xl md:mt-16 border-b-2 border-yellow-500 ">
+                <div class="flex md:text-lg md:mt-16 border-b-2 lg:text-xl border-yellow-500 ">
                     <h2
                         class="hidden md:block text-yellow-900 md:p-2 md:mr-6 hover:bg-yellow-500 hover:text-white md:mb-2 cursor-pointer text-center">
                         Home</h2>
@@ -14,7 +14,7 @@
                         class="hidden md:block md:ml-6 text-yellow-900 md:p-2 hover:bg-yellow-500 hover:text-white md:mb-2 cursor-pointer text-center ">
                         Tratamentos</h2>
                     <h2
-                        class="hidden md:block md:ml-6 md:mr-32 text-yellow-900 md:p-2 hover:bg-yellow-500 hover:text-white md:mb-2 cursor-pointer text-center">
+                        class="hidden md:block md:ml-6 md:mr-12 text-yellow-900 md:p-2 hover:bg-yellow-500 hover:text-white md:mb-2 cursor-pointer text-center">
                         Contato</h2>
                 </div>
             </div>
